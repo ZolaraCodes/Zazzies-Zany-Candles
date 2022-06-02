@@ -123,6 +123,6 @@ height:500px;
     grid-template-columns: repeat(3, 1fr);
     gap: 1.75rem;
 }
-
+}
 
 /* images and videos max out at full width */
